@@ -5,5 +5,8 @@ public class TestingCommit {
         System.out.println("hello");
         System.out.println("India");
         System.out.println("Modi");
+        System.out.println("Yogi");
+        System.out.println("Apple");
+        System.out.println("Cat");
     }
 }
