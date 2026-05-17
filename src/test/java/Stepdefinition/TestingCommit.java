@@ -8,6 +8,6 @@ public class TestingCommit {
         System.out.println("Yogi");
         System.out.println("Apple");
         System.out.println("Cat");
-        System.out.println("Virat Kohli");
+        System.out.println("virat Kohli");
     }
 }
