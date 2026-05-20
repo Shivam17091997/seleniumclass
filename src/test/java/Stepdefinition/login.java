@@ -19,7 +19,7 @@ public class login {
 
         Login login=new Login(driver);
         Login.username("shivam");
-        Login.password(123);
+        Login.password();
    // driver.findElement(By.id("username")).sendKeys("tomsmith");
     //driver.findElement(By.id("password")).sendKeys("SuperSecretPassword!");
     }
